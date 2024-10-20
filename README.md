@@ -78,7 +78,9 @@ pip install numpy matplotlib
 ```bash
 python main.py
 ```
-## ### Результаты выполнения задач
+## Результаты выполнения задач
+![Uploading image.png…]()
+
 
 #### Задание 1: Линейный конгруэнтный генератор (LCG)
 
